@@ -21,3 +21,10 @@ npm install mongoose --save;
 npm install multer --save;   
 npm install multer-s3 --save;   
 npm install aws-sdk@2.348.0 --save;
+
+## git 화살표 폴더 문제 해결  
+1) .git 파일 제거    
+`rm -rf .git`   
+   
+2) 스테이지에 존재하는 파일 제거   
+`git rm --cached . -rf` 
