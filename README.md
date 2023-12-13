@@ -22,7 +22,7 @@ npm install multer --save;
 npm install multer-s3 --save;   
 npm install aws-sdk@2.348.0 --save;
 
-## git 화살표 폴더 문제 해결  
+### git 화살표 폴더 문제 해결  
 1) .git 파일 제거    
 `rm -rf .git`   
    
