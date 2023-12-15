@@ -19,8 +19,9 @@ npm install nodemon --save;
 npm install path --save;   
 npm install mongoose --save;   
 npm install multer --save;   
-npm install multer-s3 --save;   
+npm i multer-s3@^2 --save;   
 npm install aws-sdk@2.348.0 --save;
+<!-- npm install multer-s3 --save;    -->
 
 ### git 화살표 폴더 문제 해결  
 1) .git 파일 제거    
